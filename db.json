@@ -25,7 +25,7 @@
     "posts": [
         {
             "id": "1",
-            "userId": "6",
+            "userId": "2",
             "trainingId": "t1",
             "imageUrls": [
                 "https://picsum.photos/200?random=1",
@@ -59,7 +59,7 @@
         },
         {
             "id": "3",
-            "userId": "9",
+            "userId": "1",
             "imageUrls": [
                 "https://picsum.photos/200?random=4",
                 "https://picsum.photos/200?random=5",
@@ -77,7 +77,7 @@
         },
         {
             "id": "4",
-            "userId": "5",
+            "userId": "3",
             "imageUrls": [
                 "https://picsum.photos/200?random=7"
             ],
@@ -110,7 +110,7 @@
         },
         {
             "id": "6",
-            "userId": "7",
+            "userId": "2",
             "imageUrls": [
                 "https://picsum.photos/200?random=10"
             ],
@@ -129,7 +129,7 @@
         {
             "id": "1",
             "postId": "3",
-            "userId": "7",
+            "userId": "1",
             "text": "Way to go! 💪",
             "timestamp": 1727376110990
         }
